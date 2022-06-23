@@ -11,7 +11,7 @@ Por meio da Pró-Reitoria de Extensão do Instituto Federal do Espírito Santo (
 > Visando entender o mundo da programação, o grupo de estudos do clube terá como atividades - por enquanto durante um mês - os seguintes temas: (I) estudo de introdução à lógica matemática e (II) de programação, (III) o aprendizado de sintaxe em linguagem de programação, (III) o conceito de programação orientada a objetos - POO. Acesse o [Cronograma](https://github.com/fppissarra/ctec/blob/main/cap0.md).
 
 ## 2. Tecnologias utilizadas
-<code>[Scratch](https://scratch.mit.edu/)</code> <code>Python 3.7</code> <code>translate 3.6.1</code> <code>Google Colab</code>
+<code>[Scratch](https://scratch.mit.edu/)</code> <code>Google Colab</code>
 
 ## 3. Perfis dos Idealizadores do Projeto
 Este mini-projeto faz parte de uma entrega do Programa ES+CRIATIVO em parceria com a Secretaria de Estado da Cultura (Secult) do Espírito Santo. São corresponsáveis:
