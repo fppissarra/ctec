@@ -26,7 +26,7 @@ Este mini-projeto faz parte de uma entrega do Programa ES+CRIATIVO em parceria c
 > Técnica em Informática, aluna extensionista e finalista do curso de Letras/Língua Portuguesa (Ifes). Link para o [Currículo Lattes de Flávia](http://lattes.cnpq.br/7945109731847519).
 
 ### 3.4. SANTANA, A.
-> Professor doutorando em Linguística (Ufes) e responsável pela Coordenadoria de EAD do Ifes Campus Vitória.
+> Professor doutorando em Linguística (Ufes), docente permanente e responsável pela Coordenadoria de EAD do Ifes Campus Vitória.
 
 ## 4. Bibliografia
 
