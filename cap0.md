@@ -7,7 +7,7 @@ O Clube terá 7h de atividades presenciais¹ programadas e contará com certific
 
 | Datas 2022  |  Horário  |  C.H.  |  Atividade  |
 | :---: | :---: | :---: | :--- |
-|  a confirmar |  -  |  -  |  Data limite para a inscrição² no grupo³ |
+|  25 jun |  -  |  -  |  Data limite para a inscrição² no grupo³ |
 |  em breve |  16h – 18h |  2h  |  Contextualização da linguagem Python |
 |  em breve |  16h – 18h |  2h  |  Introdução à sintaxe em programação, Discord, GitHub e Google Colab |
 |  em breve |  16h – 18h |  2h  |  Sintaxe em Python e resolução de exercícios |
