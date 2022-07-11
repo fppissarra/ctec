@@ -8,7 +8,8 @@ O Clube terá 7h de atividades presenciais¹ programadas e contará com certific
 | Datas 2022  |  Horário  |  C.H.  |  Atividade  |
 | :---: | :---: | :---: | :--- |
 |  25 jun |  -  |  -  |  Data limite para a inscrição² no grupo³ |
-|  em breve |  16h – 18h |  2h  |  Cineclube: aspectos históricos da programação de computadores e redes |
+|  06 jul |  16h – 18h |  2h  |  Cineclube: aspectos históricos da programação de computadores e redes |
+|  11 jul |  16h – 18h |  2h  |  Cineclube: aspectos históricos da programação de computadores e redes |
 |  em breve |  16h – 18h |  2h  |  Ambientação em lógica: matemática, tabela-verdade e a lógica de programação |
 |  em breve |  16h – 18h |  2h  |  Ambientação em programação: criar sequência lógica - modelo descritivo e fluxograma |
 |  em breve |  16h – 18h |  2h  |  Ambientação em programação: criar sequência lógica - [Scratch](https://scratch.mit.edu/) |
